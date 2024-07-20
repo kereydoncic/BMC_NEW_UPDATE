@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/GtuyFTR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",HULI KA BALBON! HAHAHAHA
+https://live.redtraffic.net/livecams.m3u8
 #EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:4 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",AXN
@@ -665,8 +667,6 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
 #EXTINF:-1 tvg-logo="" group-title="📺BMC📡NEW🇵🇭",Not For Sale",Unknown Channel
 https://live.realms.pub/live/a7ea5011-cc43-4847-aa0b-b778a1c6595e/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GtuyFTR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",HULI KA BALBON! HAHAHAHA
-https://live.redtraffic.net/livecams.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="📺BMC📡PH V1🇵🇭",Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="📺BMC📡PH V1🇵🇭",AFV
