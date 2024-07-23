@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",WAG MO IBENTA MAKONSENSYA KA NAMAN ABA!
 http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
-#EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",HEART OF ASIA
-https://g1z1.short.gy/HeartofAsia
-#EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",I HEART MOVIES
-http://58.69.192.180:1120/live/CD024FE73F3ACC3DBCA63DA0F4878382/152.m3u8
 #EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:4 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",AXN
@@ -1879,112 +1875,6 @@ https://tinyurl.com/WWENETW
 https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/627fe721-846f-4f75-ac61-111ca00b27dd/d92o1t0-eeaf66e1-c320-4d08-a4c8-75f78cec0ad8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYyN2ZlNzIxLTg0NmYtNGY3NS1hYzYxLTExMWNhMDBiMjdkZFwvZDkybzF0MC1lZWFmNjZlMS1jMzIwLTRkMDgtYTRjOC03NWY3OGNlYzBhZDgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qOkBmEWbOAdvZAvDVrX4EiIbrkpG2JbFN3SyGAKKU50" group-title="📺BMC📡PH V7🇵🇭",Yu-Gi-Oh!
 https://tinyurl.com/YU-GI-OH-PH
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",BUKO -BMC
-http://15.235.187.28:1234/stream/trickflix/buko/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",A2Z -BMC
-http://15.235.187.28:1234/stream/trickflix/a2z/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ANC_GLOBAL -BMC
-http://15.235.187.28:1234/stream/trickflix/ancglobal/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ANIMAX -BMC
-http://15.235.187.28:1234/stream/trickflix/animax/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",BOOMBERG -BMC
-http://15.235.187.28:1234/stream/trickflix/boomberg/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",CCTV_4 -BMC
-http://15.235.187.28:1234/stream/trickflix/cctv4/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",CINEMA_ONE -BMC
-http://15.235.187.28:1234/stream/trickflix/cinemaone/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",CNA
-http://15.235.187.28:1234/stream/trickflix/cna/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",DEPED_TV
-http://15.235.187.28:1234/stream/trickflix/depedtv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",DREAMWORKS_TAGALIZED
-http://15.235.187.28:1234/stream/trickflix/dreamworkstagalized/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",HBO_HD
-http://15.235.187.28:1234/stream/trickflix/hbohd/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",HBO_HITS
-http://15.235.187.28:1234/stream/trickflix/hbohits/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",HBO_SIGNATURE
-http://15.235.187.28:1234/stream/trickflix/hbosignature/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",HITS_MOVIES
-http://15.235.187.28:1234/stream/trickflix/hitsmovies/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",KAPAMILYA
-http://15.235.187.28:1234/stream/trickflix/sonuchannelhd/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",KNOWLEDGE_CHANNEL
-http://15.235.187.28:1234/stream/trickflix/knowledgechannel/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",MOONBUG_KIDS
-http://15.235.187.28:1234/stream/trickflix/moonbugkids/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",MPTV
-http://15.235.187.28:1234/stream/trickflix/mptv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",MYX_PH
-http://15.235.187.28:1234/stream/trickflix/myxph/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ONE_NEWS
-http://15.235.187.28:1234/stream/trickflix/onenews/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ONE_PH
-http://15.235.187.28:1234/stream/trickflix/oneph/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ONE_SPORTS+
-http://15.235.187.28:1234/stream/trickflix/onesports/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",ONE_SPORTS_HD
-http://15.235.187.28:1234/stream/trickflix/onesportshd/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",PBA_RUSH
-http://15.235.187.28:1234/stream/trickflix/pbarush/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",PTV_4
-http://15.235.187.28:1234/stream/trickflix/ptv4/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",RPTV
-http://15.235.187.28:1234/stream/trickflix/rptv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",SARI-SARI
-http://15.235.187.28:1234/stream/trickflix/sarisari/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",TAP_SPORTS
-http://15.235.187.28:1234/stream/trickflix/tapsports/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",TELERADIO_SERBISYO
-http://15.235.187.28:1234/stream/trickflix/teleradioserbisyo/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",TRUE_FM_TV
-http://15.235.187.28:1234/stream/trickflix/truefmtv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",tVN_MOVIES_PINOY
-http://15.235.187.28:1234/stream/trickflix/tvnmoviespino/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭", UAAP_VARSITY_CHANNEL
-http://15.235.187.28:1234/stream/trickflix/uaapvarsitychannel/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",AXN
-http://15.235.187.28:1234/stream/trickflix2/axn/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭".BEIN_SPORTS
-http://15.235.187.28:1234/stream/trickflix2/beinsports/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",BEIN_SPORTS_2
-http://15.235.187.28:1234/stream/trickflix2/beinsports2/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",BEIN_SPORTS_3
-http://15.235.187.28:1234/stream/trickflix2/beinsports3/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",CINEMAX
-http://15.235.187.28:1234/stream/trickflix2/cinemax/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",DISCOVERY_ASIA
-http://15.235.187.28:1234/stream/trickflix2/discoveryasia/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",DISCOVERY_CHANNEL
-http://15.235.187.28:1234/stream/trickflix2/discoverychannel/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",DREAMWORKS
-http://15.235.187.28:1234/stream/trickflix2/dreamworks/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",EURO_SPORTS
-http://15.235.187.28:1234/stream/trickflix2/eurosports/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",FOOD_NETWORK
-http://15.235.187.28:1234/stream/trickflix2/foodnetwork/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭", GOLF_CHANNEL
-http://15.235.187.28:1234/stream/trickflix2/golfchannel/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",HISTORY
-http://15.235.187.28:1234/stream/trickflix2/history/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",MTV_ASIA
-http://15.235.187.28:1234/stream/trickflix2/mtvasia/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",NICK_JR
-http://15.235.187.28:1234/stream/trickflix2/nickjr/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",NICKELODEON
-http://15.235.187.28:1234/stream/trickflix2/nickelodeon/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",PREMIER_SPORTS
-http://15.235.187.28:1234/stream/trickflix2/premiersports/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",TLC
-http://15.235.187.28:1234/stream/trickflix2/tlc/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",TVN_MOVIES
-http://15.235.187.28:1234/stream/trickflix2/tvnmovies/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",WARNER_TV
-http://15.235.187.28:1234/stream/trickflix2/warnertv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-#EXTINF:-1 tvg-logo="https://imgur.com/uEAhvno.jpg" group-title="📺BMC_BACKUP CHANNEL V1📡PH🇵🇭",WWE _NETWORK
-http://15.235.187.28:1234/stream/trickflix2/wwenetwork/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 1" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 1
 http://xtv.ooo:8080/live/adeel349/5692929/247998.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/200px-Netflix_logo.svg.png" tvg-name="NETFLIX ACTION 2" group-title="📺BMC_NETFLIC ACTION📡PH🇵🇭",NETFLIX ACTION 2
